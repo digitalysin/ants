@@ -29,7 +29,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/panjf2000/ants/v2"
+	"github.com/digitalysin/ants"
 )
 
 const (
